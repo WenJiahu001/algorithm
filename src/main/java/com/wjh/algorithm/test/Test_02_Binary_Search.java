@@ -6,7 +6,7 @@ package com.wjh.algorithm.test;
  * @author Wen Jiahu
  * @create 2019-06-04 17:25
  **/
-public class Test_02 {
+public class Test_02_Binary_Search {
 
     /**
      * 判断数组arr中是否存在key，存在则返回index，否则返回-1

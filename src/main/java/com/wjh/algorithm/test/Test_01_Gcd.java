@@ -6,7 +6,7 @@ package com.wjh.algorithm.test;
  * @author Wen Jiahu
  * @create 2019-05-31 11:48
  **/
-public class Test_01 {
+public class Test_01_Gcd {
 
     /**欧几里得算法
      * 计算两个非负整数 p 和 q 的最大公约数：若
